@@ -108,6 +108,5 @@ pip2 install --user https://s3-us-west-2.amazonaws.com/github-litivecoder/mxnet/
 
 Python 3
 ```
-pip3 install --user
-https://s3-us-west-2.amazonaws.com/github-litivecoder/mxnet/1.3.1/jetson_tx2/cuda_9.0/mxnet-1.3.1-cp35-cp35m-linux_aarch64.whl
+pip3 install --user https://s3-us-west-2.amazonaws.com/github-litivecoder/mxnet/1.3.1/jetson_tx2/cuda_9.0/mxnet-1.3.1-cp35-cp35m-linux_aarch64.whl
 ```
